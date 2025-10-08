@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div>
            <p>
-            <samll>Thank you for visiting our website</samll>
+            <small>Thank you for visiting our website</small>
             <a href='/'>terms</a>
             <a href='/'>privacy</a>
             <a href='/'>Facebook</a>
